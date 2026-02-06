@@ -14,6 +14,8 @@ This project analyzes transactional bike sales data and presents key business in
 - Created calculated fields for KPI analysis
 
 ## Analysis & Dashboard
+![Dashboard](<Bike Sale Dashboard.png>)
+
 The Excel dashboard focuses on customer demographics and purchasing behavior:
 - Age bracket distribution per purchase
 - Average income per purchase
